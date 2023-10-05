@@ -1,4 +1,4 @@
-# OIBSIP
+# Oasis Infobyte
 Internship Tasks
 
 TASK 1: 
